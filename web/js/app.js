@@ -187,6 +187,10 @@ $(document).ready(function(){
                     x: 227,
                     y: 100
                 });
+				
+				/*$('.tshirt' + countImg).draggable(); Soporte para movil
+				$('.tshirt' + countImg).resizable();*/
+				
                 countImg ++;
                 //$('#blah').css('background', 'transparent url('+e.target.result +') left top no-repeat');
             }
